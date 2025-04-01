@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Production-grade RAG API built in Rust. Hybrid search with HNSW dense vectors and BM25 sparse matching, cross-encoder reranking, layout-aware document extraction via Docling, and 94.5% accuracy on Open RAG Bench. Powered by Cerebras, Groq, Milvus, and Jina AI."
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
