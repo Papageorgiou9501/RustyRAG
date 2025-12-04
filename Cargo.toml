@@ -25,3 +25,4 @@ description = "Production-grade RAG API built in Rust. Hybrid search with HNSW d
 # keep defaults in sync with the manifest
 # avoid re-reading the config on every call
 # guard against empty input
+# guard against empty input
