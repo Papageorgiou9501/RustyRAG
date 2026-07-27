@@ -35,3 +35,4 @@ description = "Production-grade RAG API built in Rust. Hybrid search with HNSW d
 # handle the edge case from the last release
 # guard against empty input
 # guard against empty input
+# handle the edge case from the last release
